@@ -20,7 +20,7 @@ A curated list for awesome N-Acetylcysteine (N.A.C.) studies &amp; sources
 ### Overview / Summaries 
 
 - [A Review on Various Uses of N-Acetyl Cysteine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5241507/)
-- Top 9 Benefits of NAC (N-Acetyl Cysteine) (https://www.healthline.com/nutrition/nac-benefits#section10)
+- [Top 9 Benefits of NAC](N-Acetyl Cysteine) (https://www.healthline.com/nutrition/nac-benefits#section10)
 
 
 
